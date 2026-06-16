@@ -1,0 +1,9 @@
+{
+  "MCC_sim": 0.408248290463863,
+  "Acc_sim": 0.7,
+  "AUC_sim": 0.7916666666666666,
+  "K_train_diag_mean": 0.778267876453162,
+  "K_train_offdiag_mean": 0.5030099987700258,
+  "Bloch_RMS_vs_QPU": 0.021757147054908044,
+  "Bloch_max_err_vs_QPU": 0.08349609374999994
+}

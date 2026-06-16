@@ -1,0 +1,24 @@
+# credentials
+apikey.json
+*.env
+.env
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# run logs / scratch
+*.log
+results/**/*.log
+data/
+*.npy
+*.npz
+
+# os / editor
+.DS_Store
+.idea/
+.vscode/
